@@ -1,2 +1,2 @@
 # PhIP-Seq
-PhIP-Seq analysis 
+PhIP-Seq data analysis 
